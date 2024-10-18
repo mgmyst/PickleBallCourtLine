@@ -1,9 +1,12 @@
-# PickleballCourt HTML + CSS
-## 概要
-HTMLとCSSを使用して描画されるピックルボールコートです。MITライセンスのもとに公開されており、誰でも自由に使用、変更、配布することができます。
+# PickleballCourtLine
 
-## 使用方法
-`index.html` ファイルをブラウザで開いてください。適宜スタイルを変更してお望みのデザインに変更したり、印刷するなどして利用してください。
+日本語は[こちら](README-ja.md)
 
-## ライセンス
-このプロジェクトはMITライセンスの下で公開されています。
+## Overview
+This is a pickleball court drawn using HTML and CSS. It is released under the MIT License, allowing anyone to freely use, modify, and distribute it.
+
+## Usage
+Open the `index.html` file in your browser. Feel free to change the styles as you wish to achieve your desired design, or print it for use.
+
+## License
+This project is released under the MIT License.
